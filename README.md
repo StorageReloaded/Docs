@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/StorageReloaded/StoRe">
-    <img alt="storage-reloaded"
-         width="350" height="192"
+    <img alt="storage-reloaded" width="350"
          src="https://raw.githubusercontent.com/StorageReloaded/StoRe/master/banner.svg?sanitize=true">
   </a>
 </p>
