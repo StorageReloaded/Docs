@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/StorageReloaded/StoRe">
     <img alt="storage-reloaded" width="350"
-         src="https://raw.githubusercontent.com/StorageReloaded/StoRe/master/banner.svg?sanitize=true">
-    <h3>Simple self-hosted/all-in-one storage management system</h3>
+         src="https://raw.githubusercontent.com/StorageReloaded/StoRe/master/banner.svg?sanitize=true" />
   </a>
+  <h3>Simple self-hosted/all-in-one storage management system</h3>
 </p>
 
 [![Android CI](https://github.com/StorageReloaded/Android/actions/workflows/android.yml/badge.svg)](https://github.com/StorageReloaded/Android/actions/workflows/android.yml) 
