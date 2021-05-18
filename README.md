@@ -2,10 +2,9 @@
   <a href="https://github.com/StorageReloaded/StoRe">
     <img alt="storage-reloaded" width="350"
          src="https://raw.githubusercontent.com/StorageReloaded/StoRe/master/banner.svg?sanitize=true">
+    <h3>Simple self-hosted/all-in-one storage management system</h3>
   </a>
 </p>
-
-## Simple self-hosted/all-in-one storage management system 
 
 [![Android CI](https://github.com/StorageReloaded/Android/actions/workflows/android.yml/badge.svg)](https://github.com/StorageReloaded/Android/actions/workflows/android.yml) 
 [![Node CI](https://github.com/StorageReloaded/Web/actions/workflows/node.yml/badge.svg)](https://github.com/StorageReloaded/Web/actions/workflows/node.yml) 
